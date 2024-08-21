@@ -1,8 +1,0 @@
-name: pavenow_design_system
-version: 0.0.1
-description: Pavenow Design System Token
-
-homepage: https://github.com/Pavenow/pavenow-design-system
-
-environment:
-  sdk: ">=3.0.0 <4.0.0"
